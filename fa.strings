@@ -975,11 +975,10 @@ http://rozito.ir/tdesktop
 "lng_box_delete" = "حذف";
 "lng_box_leave" = "ترک";
 
-"lng_about_version" = "نسخه {version}";
+"lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: 2.4";
 "lng_about_text_1" = "به نسخه رسمی تلگرام خوش آمدید،\n [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
 "lng_about_text_2" = "این نسخه توسط [a href=\"https://telegram.me/ssshojaei\"]سید صالح شجاعی[/a] ترجمه شده است";
-"lng_about_text_3" = "زبان فارسی : 2.4";
-"lng_about_text_4" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/tdesktop\"]رزیتو[/a]";
+"lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/tdesktop\"]رزیتو[/a]";
 "lng_about_done" = "تایید";
 
 "lng_search_found_results" = "{count:No messages found|Found # message|Found # messages}";

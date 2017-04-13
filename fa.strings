@@ -634,7 +634,14 @@ http://rozito.ir/tdesktop
 "lng_profile_convert_warning" = "{bold_start}Note:{bold_end} This action can not be undone";
 "lng_profile_convert_confirm" = "تبدیل";
 "lng_profile_add_more_after_upgrade" = "You will be able to add up to {count:_not_used_|# member|# members} after you upgrade your group to a supergroup.";
-
+"lng_action_call_outgoing" = "در {time} تماس گرفتید";
+"lng_action_call_incoming" = "یک تماس در {time} داشتید";
+"lng_action_call_outgoing_duration" = "یک تماس به مدت ({duration}) در {time} داشتید";
+"lng_action_call_incoming_duration" = "یک تماس ({duration}) در {time} گرفتید";
+"lng_action_call_incoming_missed" = "تماس گرفت در {time}";
+"lng_action_call_outgoing_missed" = "تماس لغو شد در {time}";
+"lng_action_payment_done" = "You have just successfully transferred {amount} to {user}";
+"lng_action_payment_done_for" = "You have just successfully transferred {amount} to {user} for {invoice}";
 "lng_channel_not_accessible" = "با عرض پوزش، این کانال در دسترس نیست.";
 "lng_group_not_accessible" = "با عرض پوزش، این گروه در دسترس نیست.";
 

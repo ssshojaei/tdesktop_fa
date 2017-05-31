@@ -21,14 +21,32 @@ Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 
 فارسی سازی شده توسط تیم ترجمه آزاد
-http://rozito.ir/tdesktop
+https://td.Rozito.ir/
 */
+
+"lng_call_bar_hangup" = "پایان تماس";
+
+"lng_call_box_title" = "تماس ها";
+"lng_call_box_about" = "شما تا کنونی تماسی نداشته‌اید!";
+"lng_call_box_status_today" = "{time}";
+"lng_call_box_status_yesterday" = "دیروز در {time}";
+"lng_call_box_status_date" = "{date} در {time}";
+"lng_call_box_status_group" = "({count}) {status}";
+
+"lng_call_outgoing" = "تماس به شما";
+"lng_call_incoming" = "تماس های شما";
+"lng_call_missed" = "تماس از دست رفته";
+"lng_call_cancelled" = "انصراف از تماس";
+"lng_call_declined" = "رد تماس";
+"lng_call_duration_info" = "{time}, {duration}";
+"lng_call_type_and_duration" = "{type} ({duration})";
 
 
 "lng_language_name" = "فارسی";
 "lng_switch_to_this" = "رفتن به فارسی";
 
 "lng_menu_contacts" = "مخاطبین";
+"lng_menu_calls" = "تماس ها";
 "lng_menu_settings" = "تنظیمات";
 "lng_menu_about" = "درباره ما";
 "lng_menu_update" = "بررسی نسخه بروز";
@@ -207,6 +225,17 @@ http://rozito.ir/tdesktop
 "lng_signin_reset_in_hours" = "{count_hours:0 hours|# hour|# hours} {count_minutes:0 minutes|# minute|# minutes}";
 "lng_signin_reset_in_minutes" = "{count_minutes:0 minutes|# minute|# minutes}";
 "lng_signin_reset_cancelled" = "Your recent attempts to reset this account have been cancelled by its active user. Please try again in 7 days.";
+
+
+
+"lng_settings_blocked_users" = "کاربر مسدود شده";
+"lng_settings_last_seen_privacy" = "آخرین بازدید خصوصی است";
+"lng_settings_calls_privacy" = "تماس های تلفنی خصوصی است";
+"lng_settings_groups_invite_privacy" = "تنظیمات دعوت گروه";
+"lng_settings_show_sessions" = "نمایش تمام جلسات";
+"lng_settings_self_destruct" = "تنظیمات خودتخریبی حساب کاربری";
+"lng_settings_change_phone" = "تغییر شماره تلفن";
+
 
 "lng_signup_title" = "نام شما";
 "lng_signup_desc" = "لطفا نام خود را وارد کنید و یک تصویر برای پروفایل خود قرار دهید";

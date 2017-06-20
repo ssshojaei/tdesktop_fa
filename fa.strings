@@ -994,7 +994,7 @@ https://td.Rozito.ir/
 "lng_create_group_link" = "Link";
 "lng_create_group_invite_link" = "Invite link";
 "lng_create_group_photo" = "Set Photo";
-"lng_create_group_description" = "Description (optional)";
+"lng_create_group_description" = "توضیحات";
 
 "lng_drag_images_here" = "Drop images here";
 "lng_drag_photos_here" = "Drop photos here";

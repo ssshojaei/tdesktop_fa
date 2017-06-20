@@ -404,7 +404,7 @@ https://td.Rozito.ir/
 "lng_passcode_ph" = "گذرواژه";
 "lng_passcode_submit" = "تایید";
 "lng_passcode_logout" = "خروج";
-"lng_passcode_need_unblock" = "You need to unlock me first.";
+"lng_passcode_need_unblock" = "ابتدا باید قفل را باز کنید";
 
 "lng_cloud_password_waiting" = "Confirmation link sent to {email}...";
 "lng_cloud_password_change" = "تغییر رمز عبور دو مرحله ای";
@@ -437,7 +437,7 @@ https://td.Rozito.ir/
 "lng_connection_auto" = "Default ({transport} used)";
 "lng_connection_proxy_connecting" = "Connecting through proxy...";
 "lng_connection_proxy" = "{transport} with proxy";
-"lng_connection_header" = "Connection type";
+"lng_connection_header" = "نوع اتصال";
 "lng_connection_auto_rb" = "Auto (TCP if available or HTTP)";
 "lng_connection_http_proxy_rb" = "HTTP with custom http-proxy";
 "lng_connection_tcp_proxy_rb" = "TCP with custom socks5-proxy";

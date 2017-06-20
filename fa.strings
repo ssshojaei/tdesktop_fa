@@ -32,6 +32,7 @@ https://td.Rozito.ir/
 "lng_call_box_status_yesterday" = "دیروز در {time}";
 "lng_call_box_status_date" = "{date} در {time}";
 "lng_call_box_status_group" = "({count}) {status}";
+"lng_create_group_link" = "لینک";
 
 "lng_call_outgoing" = "تماس به شما";
 "lng_call_incoming" = "تماس های شما";

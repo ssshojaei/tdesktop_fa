@@ -42,6 +42,14 @@ https://td.Rozito.ir/
 "lng_call_type_and_duration" = "{type} ({duration})";
 
 
+"lng_settings_section_background" = "Chat background";
+"lng_settings_bg_use_default" = "Use default color theme";
+"lng_settings_bg_from_gallery" = "Choose from gallery";
+"lng_settings_bg_from_file" = "Choose from file";
+"lng_settings_bg_edit_theme" = "ویرایش پوسته";
+"lng_settings_bg_tile" = "Tile background";
+"lng_settings_adaptive_wide" = "Adaptive layout for wide screens";
+
 "lng_language_name" = "فارسی";
 "lng_switch_to_this" = "رفتن به فارسی";
 
@@ -752,6 +760,7 @@ https://td.Rozito.ir/
 "lng_switch_stickers" = "استیکر ها";
 "lng_switch_stickers_gifs" = "گیف ها و استیکر ها";
 "lng_switch_emoji" = "ایموجی";
+"lng_switch_gifs" = "متحرک ها";
 "lng_stickers_featured_add" = "افزودن";
 
 "lng_saved_gifs" = "گیف های ذخیره شده";

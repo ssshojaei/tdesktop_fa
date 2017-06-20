@@ -167,7 +167,7 @@ https://td.Rozito.ir/
 "lng_pinned_unpin" = "حذف پین";
 "lng_pinned_notify" = "همه را مطلع کن!";
 
-"lng_intro_about" = "به تلگرام فارسی خوش آمدید!\nاین نسخه توسط سید صالح شجاعی فارسی سازی و اصلاح شده است";
+"lng_intro_about" = "به تلگرام فارسی خوش آمدید!\nاین نسخه توسط تیم آزاد ترجمه فارسی سازی و اصلاح شده است";
 "lng_start_msgs" = "شروع کار";
 
 "lng_intro_next" = "بعدی";
@@ -274,7 +274,7 @@ https://td.Rozito.ir/
 "lng_username_not_found" = "User @{user} not found.";
 "lng_username_link_willbe" = "Such link will open a chat with you:";
 "lng_username_link" = "This link opens a chat with you:";
-"lng_username_copied" = "Link copied to clipboard.";
+"lng_username_copied" = "لینک کپی شد";
 
 "lng_settings_section_info" = "اطلاعات";
 "lng_settings_phone_number" = "شماره تماس:";

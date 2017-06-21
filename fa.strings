@@ -274,12 +274,12 @@ https://td.Rozito.ir/
 
 "lng_username_title" = "نام کاربری";
 "lng_username_about" = "You can choose a username on Telegram.\nIf you do, other people will be able to find\nyou by this username and contact you\nwithout knowing your phone number.\n\nYou can use a-z, 0-9 and underscores.\nMinimum length is 5 characters.";
-"lng_username_choose" = "Choose your username.";
-"lng_username_invalid" = "This username is invalid.";
-"lng_username_occupied" = "This username is already occupied.";
-"lng_username_too_short" = "This username is too short.";
-"lng_username_bad_symbols" = "This username has bad symbols.";
-"lng_username_available" = "This username is available.";
+"lng_username_choose" = ".نام کاربری خود را انتخاب کنید";
+"lng_username_invalid" = ".این نام کاربری نامعتبر است";
+"lng_username_occupied" = ".این نام کاربری قبلا گرفته شده است";
+"lng_username_too_short" = ".این نام کاربری خیلی کوتاه است";
+"lng_username_bad_symbols" = ".این نام کاربری دارای علامت های نامناسب است";
+"lng_username_available" = ".این نام کاربری در دسترس است";
 "lng_username_not_found" = "User @{user} not found.";
 "lng_username_link_willbe" = "Such link will open a chat with you:";
 "lng_username_link" = "This link opens a chat with you:";
@@ -398,22 +398,22 @@ https://td.Rozito.ir/
 "lng_passcode_enter_new" = "وارد کردن رمز جدید";
 "lng_passcode_confirm_new" = "تکرار رمز عبور";
 "lng_passcode_about" = "When a local passcode is set, a lock icon appears at the top of your chats list. Click it to lock the app.\n\nNote: if you forget your local passcode, you'll need to relogin in Telegram Desktop.";
-"lng_passcode_differ" = "Passcodes are different";
+"lng_passcode_differ" = ".رمز عبور یکسان نیست ";
 "lng_passcode_wrong" = "رمز عبور نادرست است";
-"lng_passcode_is_same" = "Passcode was not changed";
+"lng_passcode_is_same" = "رمز عبور تغییر نکرده است";
 "lng_passcode_enter" = "گذرواژه‌ی خود را وارد کنید";
 "lng_passcode_ph" = "گذرواژه";
 "lng_passcode_submit" = "تایید";
 "lng_passcode_logout" = "خروج";
 "lng_passcode_need_unblock" = "ابتدا باید قفل را باز کنید";
 
-"lng_cloud_password_waiting" = "Confirmation link sent to {email}...";
+"lng_cloud_password_waiting" = "لینک تایید ارسال شد به  {email}...";
 "lng_cloud_password_change" = "تغییر رمز عبور دو مرحله ای";
 "lng_cloud_password_create" = "رمز عبور ابری";
 "lng_cloud_password_remove" = "حذف رمز عبور دو مرحله ای";
 "lng_cloud_password_set" = "فعال سازی ورود دو مرحله ای";
 "lng_cloud_password_edit" = "تغییر رمز عبور ابری";
-"lng_cloud_password_enter_old" = "Enter current password";
+"lng_cloud_password_enter_old" = "رمز عبور فعلی را وارد کنید";
 "lng_cloud_password_enter_first" = "رمز عبور ابری";
 "lng_cloud_password_enter_new" = "وارد کردن رمز عبور جدید";
 "lng_cloud_password_confirm_new" = "تکرار رمز عبور ابری";
@@ -421,7 +421,7 @@ https://td.Rozito.ir/
 "lng_cloud_password_change_hint" = "تغییر راهنما رمز عبور";
 "lng_cloud_password_bad" = "رمز عبور و راهنما نمیتواند یکسان باشد!";
 "lng_cloud_password_email" = "وارد کردن ایمیل ورودی!";
-"lng_cloud_password_bad_email" = "Incorrect e-mail, please try other.";
+"lng_cloud_password_bad_email" = "پست الکترونیکی اشتباه است ، لطفا دوباره تلاش کنید";
 "lng_cloud_password_about" = "هنگام ورود علاوه بر تایید پیامکی، پیامی به ایمیل شما نیز ارسال میشود";
 "lng_cloud_password_about_recover" = "Warning! Are you sure you don't want to\nadd a password recovery e-mail?\n\nIf you forget your password, you will\nlose access to your Telegram account.";
 "lng_cloud_password_skip_email" = "گذشتن از ایمیل";
@@ -1029,7 +1029,7 @@ https://td.Rozito.ir/
 "lng_about_done" = "تایید";
 
 "lng_search_found_results" = "{count:No messages found|Found # message|Found # messages}";
-"lng_search_global_results" = "Global search results";
+"lng_search_global_results" = "نتایج جستجو جهانی";
 
 "lng_media_save_progress" = "{ready} of {total} {mb}";
 "lng_mediaview_save_as" = "ذخیره ...";

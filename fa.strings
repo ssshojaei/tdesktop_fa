@@ -389,7 +389,7 @@ https://td.Rozito.ir/
 "lng_passcode_remove" = "حذف رمز عبور";
 "lng_passcode_turn_off" = "فعال";
 "lng_passcode_autolock" = "قفل خودکار";
-"lng_passcode_autolock_away" = "Auto-Lock if away for:";
+"lng_passcode_autolock_away" = "قفل شدن بعد از:";
 "lng_passcode_autolock_inactive" = "Auto-Lock if inactive for:";
 "lng_passcode_autolock_minutes" = "{count:_not_used_|# minute|# minutes}";
 "lng_passcode_autolock_hours" = "{count:_not_used_|# hour|# hours}";

@@ -323,9 +323,9 @@ https://td.Rozito.ir/
 "lng_settings_update_fail" = "بروزرسانی ناموفق بود )-:";
 "lng_settings_workmode_tray" = "نمایش آیکون در نوار اعلانات";
 "lng_settings_workmode_window" = "نمایش آیکون نوار وظیفه";
-"lng_settings_auto_start" = "Launch Telegram when system starts";
-"lng_settings_start_min" = "Launch minimized";
-"lng_settings_add_sendto" = "Place Telegram in «Send to» menu";
+"lng_settings_auto_start" = "راه اندازی تلگرام هنگام شروع سیستم";
+"lng_settings_start_min" = "راه اندازی حداقل";
+"lng_settings_add_sendto" = "محل تلگرام در <<ارسال به>> فهرست";
 "lng_settings_section_scale" = "اندازه صفحه";
 "lng_settings_scale_auto" = "خودکار ({cur})";
 
@@ -356,10 +356,10 @@ https://td.Rozito.ir/
 "lng_download_path_default" = "مسیر پیشفرض";
 "lng_download_path_clear" = "پاک کردن همه";
 "lng_download_path_header" = "انتخاب پوشه دانلود";
-"lng_download_path_default_radio" = "Telegram folder in system «Downloads»";
-"lng_download_path_temp_radio" = "Temp folder, cleared on logout or uninstall";
-"lng_download_path_dir_radio" = "Custom folder, cleared only manually";
-"lng_download_path_choose" = "Choose download path";
+"lng_download_path_default_radio" = "<<Downloads>> پوشه تلگرام در سیستم ";
+"lng_download_path_temp_radio" = "پوشه موقتی ، هنگام خروج یا حذف پاک میشود";
+"lng_download_path_dir_radio" = "پوشه سفارشی ، فقط به صورت دستی پاک میشود";
+"lng_download_path_choose" = "مسیر دانلود را انتخاب کنید";
 "lng_sure_clear_downloads" = "Do you want to remove all downloaded files from temp folder? It is done automatically on logout or program uninstall.";
 "lng_download_path_failed" = "File download could not be started. It could happen because of a bad download location.\n\nYou can change download path in Settings.";
 "lng_download_path_settings" = "تنظیمات";

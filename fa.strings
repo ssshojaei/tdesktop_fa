@@ -323,9 +323,9 @@ https://td.Rozito.ir/
 "lng_settings_update_fail" = "بروزرسانی ناموفق بود )-:";
 "lng_settings_workmode_tray" = "نمایش آیکون در نوار اعلانات";
 "lng_settings_workmode_window" = "نمایش آیکون نوار وظیفه";
-"lng_settings_auto_start" = "Launch Telegram when system starts";
-"lng_settings_start_min" = "Launch minimized";
-"lng_settings_add_sendto" = "Place Telegram in «Send to» menu";
+"lng_settings_auto_start" = "راه اندازی تلگرام هنگام شروع سیستم";
+"lng_settings_start_min" = "راه اندازی حداقل";
+"lng_settings_add_sendto" = "محل تلگرام در <<ارسال به>> فهرست";
 "lng_settings_section_scale" = "اندازه صفحه";
 "lng_settings_scale_auto" = "خودکار ({cur})";
 
@@ -356,10 +356,10 @@ https://td.Rozito.ir/
 "lng_download_path_default" = "مسیر پیشفرض";
 "lng_download_path_clear" = "پاک کردن همه";
 "lng_download_path_header" = "انتخاب پوشه دانلود";
-"lng_download_path_default_radio" = "Telegram folder in system «Downloads»";
-"lng_download_path_temp_radio" = "Temp folder, cleared on logout or uninstall";
-"lng_download_path_dir_radio" = "Custom folder, cleared only manually";
-"lng_download_path_choose" = "Choose download path";
+"lng_download_path_default_radio" = "<<Downloads>> پوشه تلگرام در سیستم ";
+"lng_download_path_temp_radio" = "پوشه موقتی ، هنگام خروج یا حذف پاک میشود";
+"lng_download_path_dir_radio" = "پوشه سفارشی ، فقط به صورت دستی پاک میشود";
+"lng_download_path_choose" = "مسیر دانلود را انتخاب کنید";
 "lng_sure_clear_downloads" = "Do you want to remove all downloaded files from temp folder? It is done automatically on logout or program uninstall.";
 "lng_download_path_failed" = "File download could not be started. It could happen because of a bad download location.\n\nYou can change download path in Settings.";
 "lng_download_path_settings" = "تنظیمات";
@@ -698,12 +698,12 @@ https://td.Rozito.ir/
 "lng_group_invite_link" = "دعوت از لینک: ";
 "lng_group_invite_create" = "ساخت لینک عضویت";
 "lng_group_invite_about" = "Telegram users will be able to join\nyour group by following this link.";
-"lng_group_invite_create_new" = "Revoke invite link";
-"lng_group_invite_about_new" = "Your previous link will be deactivated and we'll generate a new invite link for you.";
-"lng_group_invite_copied" = "Invite link copied to clipboard.";
+"lng_group_invite_create_new" = "باطل کردن لینک دعوت";
+"lng_group_invite_about_new" = "لینک قبلی شما غیرفعال خواهد شد و ما یک لینک دعوتنامه جدید برای شما ایجاد خواهیم کرد.";
+"lng_group_invite_copied" = "لینک دعوت در حافظه کپی شد .";
 "lng_group_invite_no_room" = "Unable to join this group because there are too many members in it already.";
 
-"lng_channel_public_link_copied" = "Link copied to clipboard.";
+"lng_channel_public_link_copied" = "لینک در حافظه کپی شد.";
 
 "lng_forwarded" = "Forwarded from {user}";
 "lng_forwarded_channel" = "Forwarded from {channel}";
@@ -778,24 +778,24 @@ https://td.Rozito.ir/
 "lng_stickers_remove_pack" = "آیا میخواهید «{sticker_pack}» را حذف کنید؟";
 "lng_stickers_add_pack" = "افزودن استیکر ها";
 "lng_stickers_share_pack" = "اشتراک استیکرها";
-"lng_stickers_not_found" = "Sticker pack not found.";
+"lng_stickers_not_found" = "بسته استیکر پیدا نشد.";
 "lng_stickers_packs_archived" = "Some of your unused stickers have been archived to make room for the sets you've activated.";
-"lng_stickers_archived" = "Archived Stickers";
+"lng_stickers_archived" = "استیکر های بایگانی شده";
 "lng_stickers_copied" = "Sticker pack link copied to clipboard.";
 "lng_stickers_default_set" = "Great Minds";
 "lng_stickers_you_have" = "مدیریت و ویرایش استیکرها";
 "lng_stickers_featured" = "استیکر های پیشنهادی";
-"lng_stickers_return" = "Undo";
+"lng_stickers_return" = "لغو";
 "lng_stickers_count" = "{count:Loading...|# sticker|# stickers}";
 "lng_stickers_masks_pack" = "This is a pack of mask stickers. You can use them in the photo editor on our mobile apps.";
 
-"lng_in_dlg_photo" = "Photo";
-"lng_in_dlg_video" = "Video";
-"lng_in_dlg_audio_file" = "Audio file";
+"lng_in_dlg_photo" = "عکس";
+"lng_in_dlg_video" = "فیلم";
+"lng_in_dlg_audio_file" = "فایل صوتی";
 "lng_in_dlg_contact" = "Contact";
-"lng_in_dlg_audio" = "Voice message";
-"lng_in_dlg_file" = "File";
-"lng_in_dlg_sticker" = "Sticker";
+"lng_in_dlg_audio" = "پیام صوتی";
+"lng_in_dlg_file" = "فایل";
+"lng_in_dlg_sticker" = "استیکر";
 "lng_in_dlg_sticker_emoji" = "{emoji} Sticker";
 
 "lng_ban_user" = "مسدود";
@@ -827,10 +827,10 @@ https://td.Rozito.ir/
 "lng_empty_history" = "";
 "lng_willbe_history" = "یک گفتگو را انتخاب کنید";
 "lng_from_you" = "شما";
-"lng_from_draft" = "Draft";
+"lng_from_draft" = "پیش نویس";
 "lng_bot_description" = "What can this bot do?";
 "lng_unblock_button" = "Unblock";
-"lng_channel_join" = "Join Channel";
+"lng_channel_join" = "عضویت در کانال";
 "lng_channel_mute" = "بی صدا";
 "lng_channel_unmute" = "صدا دار";
 
@@ -841,10 +841,10 @@ https://td.Rozito.ir/
 "lng_dialogs_show_all_chats" = "Show all chats";
 "lng_dialogs_hide_muted_chats" = "Hide muted chats";
 
-"lng_open_this_link" = "Open this link?";
-"lng_open_link" = "Open";
+"lng_open_this_link" = "این لینک را باز می کنید ؟";
+"lng_open_link" = "باز کردن";
 "lng_allow_bot_pass" = "Do you allow {bot_name} to pass your Telegram name and id to the web pages you open via this bot?";
-"lng_allow_bot" = "Allow";
+"lng_allow_bot" = "اجازه دادن";
 
 "lng_bot_start" = "شروع";
 "lng_bot_choose_group" = "شروع یک گروه";
@@ -947,20 +947,20 @@ https://td.Rozito.ir/
 "lng_send_images_compress" = "Compress {count:_not_used_|image|images}";
 "lng_send_image_non_local" = "Could not send a non local file: {name}";
 "lng_send_image_empty" = "Could not send an empty file: {name}";
-"lng_send_image_too_large" = "Could not send a file, because it is larger than 1500 MB: {name}";
+"lng_send_image_too_large" = "فایل را نمیتوان ارسال کرد ، زیرا بزرگتر از ۱۵۰۰ مگابایت است : {name}";
 "lng_send_folder" = "Could not send «{name}» because it is a directory :(";
 "lng_send_images_selected" = "{count:_not_used_|# image|# images} selected";
 "lng_send_photos" = "Send {count:_not_used_|# photo|# photos}";
 "lng_send_files_selected" = "{count:_not_used_|# file|# files} selected";
 "lng_send_files" = "Send {count:_not_used_|# file|# files}";
 
-"lng_forward_choose" = "Choose recipient...";
-"lng_forward_cant" = "Sorry, no way to forward here :(";
+"lng_forward_choose" = "... گیرنده را انتخاب کنید";
+"lng_forward_cant" = "با عرض پوزش ، هیچ راهی برای ارسال در اینجا نیست :(";
 "lng_forward_confirm" = "Forward to {recipient}?";
-"lng_forward_share_contact" = "Share contact to {recipient}?";
+"lng_forward_share_contact" = "به اشتراک گذاشتن مخاطب با {recipient} ؟"; 
 "lng_forward_send_file_confirm" = "Send «{name}» to {recipient}?";
 "lng_forward_send_files_confirm" = "Send selected files to {recipient}?";
-"lng_forward_send" = "Send";
+"lng_forward_send" = "ارسال";
 "lng_forward_messages" = "{count:_not_used_|Forwarded message|# forwarded messages}";
 "lng_forwarding_from" = "{user} and {count:_not_used_|# other|# others}";
 "lng_forwarding_from_two" = "{user} and {second_user}";
@@ -973,7 +973,7 @@ https://td.Rozito.ir/
 
 "lng_share_title" = "Share to";
 "lng_share_copy_link" = "Copy share link";
-"lng_share_confirm" = "Send";
+"lng_share_confirm" = "ارسال";
 "lng_share_wrong_user" = "This game was opened from a different user.";
 "lng_share_game_link_copied" = "Game link copied to clipboard.";
 "lng_share_done" = "Done!";
@@ -983,7 +983,7 @@ https://td.Rozito.ir/
 "lng_edit_group_title" = "ویرایش نام گروه";
 "lng_edit_contact_title" = "ویرای نام مخاطب";
 "lng_edit_channel_title" = "ویرایش کانال";
-"lng_edit_sign_messages" = "Sign messages";
+"lng_edit_sign_messages" = "ارسال کننده پست";
 "lng_edit_group" = "ویرایش گروه";
 "lng_edit_self_title" = "ویرایش نام شما";
 "lng_confirm_contact_data" = "مخاطب جدید";
@@ -1049,7 +1049,7 @@ https://td.Rozito.ir/
 "lng_mediaview_yesterday" = "دیروز در {time}";
 "lng_mediaview_date_time" = "{date} در {time}";
 
-"lng_mediaview_saved" = "Image was saved to your [c]Downloads[/c] folder";
+"lng_mediaview_saved" = ".ذخیره شد[c]Downloads[/c]  تصویر در پوشه";
 
 "lng_theme_preview_title" = "پیشنمایش پوسته";
 "lng_theme_preview_generating" = "Generating color theme preview...";

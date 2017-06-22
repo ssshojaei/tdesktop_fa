@@ -778,24 +778,24 @@ https://td.Rozito.ir/
 "lng_stickers_remove_pack" = "آیا میخواهید «{sticker_pack}» را حذف کنید؟";
 "lng_stickers_add_pack" = "افزودن استیکر ها";
 "lng_stickers_share_pack" = "اشتراک استیکرها";
-"lng_stickers_not_found" = "Sticker pack not found.";
+"lng_stickers_not_found" = "بسته استیکر پیدا نشد.";
 "lng_stickers_packs_archived" = "Some of your unused stickers have been archived to make room for the sets you've activated.";
-"lng_stickers_archived" = "Archived Stickers";
+"lng_stickers_archived" = "استیکر های بایگانی شده";
 "lng_stickers_copied" = "Sticker pack link copied to clipboard.";
 "lng_stickers_default_set" = "Great Minds";
 "lng_stickers_you_have" = "مدیریت و ویرایش استیکرها";
 "lng_stickers_featured" = "استیکر های پیشنهادی";
-"lng_stickers_return" = "Undo";
+"lng_stickers_return" = "لغو";
 "lng_stickers_count" = "{count:Loading...|# sticker|# stickers}";
 "lng_stickers_masks_pack" = "This is a pack of mask stickers. You can use them in the photo editor on our mobile apps.";
 
-"lng_in_dlg_photo" = "Photo";
-"lng_in_dlg_video" = "Video";
-"lng_in_dlg_audio_file" = "Audio file";
+"lng_in_dlg_photo" = "عکس";
+"lng_in_dlg_video" = "فیلم";
+"lng_in_dlg_audio_file" = "فایل صوتی";
 "lng_in_dlg_contact" = "Contact";
-"lng_in_dlg_audio" = "Voice message";
-"lng_in_dlg_file" = "File";
-"lng_in_dlg_sticker" = "Sticker";
+"lng_in_dlg_audio" = "پیام صوتی";
+"lng_in_dlg_file" = "فایل";
+"lng_in_dlg_sticker" = "استیکر";
 "lng_in_dlg_sticker_emoji" = "{emoji} Sticker";
 
 "lng_ban_user" = "مسدود";
@@ -827,10 +827,10 @@ https://td.Rozito.ir/
 "lng_empty_history" = "";
 "lng_willbe_history" = "یک گفتگو را انتخاب کنید";
 "lng_from_you" = "شما";
-"lng_from_draft" = "Draft";
+"lng_from_draft" = "پیش نویس";
 "lng_bot_description" = "What can this bot do?";
 "lng_unblock_button" = "Unblock";
-"lng_channel_join" = "Join Channel";
+"lng_channel_join" = "عضویت در کانال";
 "lng_channel_mute" = "بی صدا";
 "lng_channel_unmute" = "صدا دار";
 
@@ -841,10 +841,10 @@ https://td.Rozito.ir/
 "lng_dialogs_show_all_chats" = "Show all chats";
 "lng_dialogs_hide_muted_chats" = "Hide muted chats";
 
-"lng_open_this_link" = "Open this link?";
-"lng_open_link" = "Open";
+"lng_open_this_link" = "این لینک را باز می کنید ؟";
+"lng_open_link" = "باز کردن";
 "lng_allow_bot_pass" = "Do you allow {bot_name} to pass your Telegram name and id to the web pages you open via this bot?";
-"lng_allow_bot" = "Allow";
+"lng_allow_bot" = "اجازه دادن";
 
 "lng_bot_start" = "شروع";
 "lng_bot_choose_group" = "شروع یک گروه";
@@ -1049,7 +1049,7 @@ https://td.Rozito.ir/
 "lng_mediaview_yesterday" = "دیروز در {time}";
 "lng_mediaview_date_time" = "{date} در {time}";
 
-"lng_mediaview_saved" = "Image was saved to your [c]Downloads[/c] folder";
+"lng_mediaview_saved" = ".ذخیره شد[c]Downloads[/c]  تصویر در پوشه";
 
 "lng_theme_preview_title" = "پیشنمایش پوسته";
 "lng_theme_preview_generating" = "Generating color theme preview...";

@@ -698,7 +698,7 @@ https://td.Rozito.ir/
 "lng_group_invite_link" = "دعوت از لینک: ";
 "lng_group_invite_create" = "ساخت لینک عضویت";
 "lng_group_invite_about" = "Telegram users will be able to join\nyour group by following this link.";
-"lng_group_invite_create_new" = "Revoke invite link";
+"lng_group_invite_create_new" = "باطل کردن لینک دعوت";
 "lng_group_invite_about_new" = "Your previous link will be deactivated and we'll generate a new invite link for you.";
 "lng_group_invite_copied" = "Invite link copied to clipboard.";
 "lng_group_invite_no_room" = "Unable to join this group because there are too many members in it already.";
@@ -947,15 +947,15 @@ https://td.Rozito.ir/
 "lng_send_images_compress" = "Compress {count:_not_used_|image|images}";
 "lng_send_image_non_local" = "Could not send a non local file: {name}";
 "lng_send_image_empty" = "Could not send an empty file: {name}";
-"lng_send_image_too_large" = "Could not send a file, because it is larger than 1500 MB: {name}";
+"lng_send_image_too_large" = "فایل را نمیتوان ارسال کرد ، زیرا بزرگتر از ۱۵۰۰ مگابایت است : {name}";
 "lng_send_folder" = "Could not send «{name}» because it is a directory :(";
 "lng_send_images_selected" = "{count:_not_used_|# image|# images} selected";
 "lng_send_photos" = "Send {count:_not_used_|# photo|# photos}";
 "lng_send_files_selected" = "{count:_not_used_|# file|# files} selected";
 "lng_send_files" = "Send {count:_not_used_|# file|# files}";
 
-"lng_forward_choose" = "Choose recipient...";
-"lng_forward_cant" = "Sorry, no way to forward here :(";
+"lng_forward_choose" = "... گیرنده را انتخاب کنید";
+"lng_forward_cant" = "با عرض پوزش ، هیچ راهی برای ارسال در اینجا نیست :(";
 "lng_forward_confirm" = "Forward to {recipient}?";
 "lng_forward_share_contact" = "Share contact to {recipient}?";
 "lng_forward_send_file_confirm" = "Send «{name}» to {recipient}?";
@@ -983,7 +983,7 @@ https://td.Rozito.ir/
 "lng_edit_group_title" = "ویرایش نام گروه";
 "lng_edit_contact_title" = "ویرای نام مخاطب";
 "lng_edit_channel_title" = "ویرایش کانال";
-"lng_edit_sign_messages" = "Sign messages";
+"lng_edit_sign_messages" = "ارسال کننده پست";
 "lng_edit_group" = "ویرایش گروه";
 "lng_edit_self_title" = "ویرایش نام شما";
 "lng_confirm_contact_data" = "مخاطب جدید";

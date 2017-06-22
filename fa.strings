@@ -957,10 +957,10 @@ https://td.Rozito.ir/
 "lng_forward_choose" = "... گیرنده را انتخاب کنید";
 "lng_forward_cant" = "با عرض پوزش ، هیچ راهی برای ارسال در اینجا نیست :(";
 "lng_forward_confirm" = "Forward to {recipient}?";
-"lng_forward_share_contact" = "Share contact to {recipient}?";
+"lng_forward_share_contact" = "به اشتراک گذاشتن مخاطب با {recipient} ؟"; 
 "lng_forward_send_file_confirm" = "Send «{name}» to {recipient}?";
 "lng_forward_send_files_confirm" = "Send selected files to {recipient}?";
-"lng_forward_send" = "Send";
+"lng_forward_send" = "ارسال";
 "lng_forward_messages" = "{count:_not_used_|Forwarded message|# forwarded messages}";
 "lng_forwarding_from" = "{user} and {count:_not_used_|# other|# others}";
 "lng_forwarding_from_two" = "{user} and {second_user}";
@@ -973,7 +973,7 @@ https://td.Rozito.ir/
 
 "lng_share_title" = "Share to";
 "lng_share_copy_link" = "Copy share link";
-"lng_share_confirm" = "Send";
+"lng_share_confirm" = "ارسال";
 "lng_share_wrong_user" = "This game was opened from a different user.";
 "lng_share_game_link_copied" = "Game link copied to clipboard.";
 "lng_share_done" = "Done!";

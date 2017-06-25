@@ -221,7 +221,7 @@ https://td.Rozito.ir/
 "lng_signin_hint" = "رهنما: {password_hint}";
 "lng_signin_recover_hint" = "کد به ایمیل پشتیبانی ({recover_email}) ارسال میشود";
 "lng_signin_bad_password" = "رمز عبور شما نادرست است";
-"lng_signin_wrong_code" = "You have entered an invalid code.";
+"lng_signin_wrong_code" = "کد وارد شده نادرست است";
 "lng_signin_try_password" = "Having trouble accessing your e-mail?";
 "lng_signin_password_removed" = "Your cloud password was disabled.\nYou can set a new one in Settings.";
 "lng_signin_no_email_forgot" = "Since you haven't provided a recovery\ne-mail when setting up your password, your remaining options are either to remember your password or to reset your account.";
@@ -280,7 +280,7 @@ https://td.Rozito.ir/
 "lng_username_too_short" = ".این نام کاربری خیلی کوتاه است";
 "lng_username_bad_symbols" = ".این نام کاربری دارای علامت های نامناسب است";
 "lng_username_available" = ".این نام کاربری در دسترس است";
-"lng_username_not_found" = "User @{user} not found.";
+"lng_username_not_found" = "کاربر @{user} پیدا نشد.";
 "lng_username_link_willbe" = "Such link will open a chat with you:";
 "lng_username_link" = "This link opens a chat with you:";
 "lng_username_copied" = "لینک کپی شد";
@@ -426,12 +426,12 @@ https://td.Rozito.ir/
 "lng_cloud_password_about_recover" = "Warning! Are you sure you don't want to\nadd a password recovery e-mail?\n\nIf you forget your password, you will\nlose access to your Telegram account.";
 "lng_cloud_password_skip_email" = "گذشتن از ایمیل";
 "lng_cloud_password_almost" = "A confirmation link was sent to the\ne-mail you provided. Two-step verification will be enabled as soon as you follow that link.";
-"lng_cloud_password_was_set" = "Two-step verification enabled.";
-"lng_cloud_password_updated" = "Your cloud password was updated.";
-"lng_cloud_password_removed" = "Two-step verification was disabled.";
-"lng_cloud_password_differ" = "Passwords do not match";
-"lng_cloud_password_wrong" = "Wrong cloud password";
-"lng_cloud_password_is_same" = "Password was not changed";
+"lng_cloud_password_was_set" = "تایید صحت دو مرحله ای فعال شد";
+"lng_cloud_password_updated" = "رمز عبور ابری شما به روز شد";
+"lng_cloud_password_removed" = "تایید صحت دو مرحله ای غیر فعال شد";
+"lng_cloud_password_differ" = "رمز های عبور یکسان نیستند";
+"lng_cloud_password_wrong" = "رمز عبور ابری اشتباه است";
+"lng_cloud_password_is_same" = "رمز عبور تغییر نکرده است";
 
 "lng_connection_type" = "نوع اتصال: ";
 "lng_connection_auto_connecting" = "Default (connecting...)";

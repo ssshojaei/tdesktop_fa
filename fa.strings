@@ -34,6 +34,10 @@ https://td.Rozito.ir/
 "lng_call_box_status_group" = "({count}) {status}";
 "lng_create_group_link" = "لینک";
 
+"lng_settings_section_advanced_settings" = "تنظیمات پیشرفته";
+"lng_settings_enable_night_theme" = "فعال سازی حالت شب";
+"lng_settings_disable_night_theme" = "غیر فعال کردن حالت شب";
+
 "lng_call_outgoing" = "تماس به شما";
 "lng_call_incoming" = "تماس های شما";
 "lng_call_missed" = "تماس از دست رفته";
@@ -42,14 +46,24 @@ https://td.Rozito.ir/
 "lng_call_duration_info" = "{time}, {duration}";
 "lng_call_type_and_duration" = "{type} ({duration})";
 
+"lng_dialogs_text_with_from" = "{from_part} {message}";
+"lng_dialogs_text_from_wrapped" = "{from}:";
+"lng_dialogs_text_media" = "{media_part} {caption}";
+"lng_dialogs_text_media_wrapped" = "{media},";
+"lng_dialogs_show_all_chats" = "نمایش همه‌ی گفت گو هاد";
+"lng_dialogs_hide_muted_chats" = "مخفی کردن چت‌های بی صدا";
 
-"lng_settings_section_background" = "Chat background";
-"lng_settings_bg_use_default" = "Use default color theme";
-"lng_settings_bg_from_gallery" = "Choose from gallery";
-"lng_settings_bg_from_file" = "Choose from file";
+"lng_settings_section_background" = "پس‌زمینه گفتگو";
+"lng_settings_bg_use_default" = "استفاده از رنگ پیشفرض پوسته";
+"lng_settings_bg_from_gallery" = "انتخاب از گالری";
+"lng_settings_bg_from_file" = "انتخاب از فایل ها";
 "lng_settings_bg_edit_theme" = "ویرایش پوسته";
-"lng_settings_bg_tile" = "Tile background";
-"lng_settings_adaptive_wide" = "Adaptive layout for wide screens";
+"lng_settings_bg_tile" = "تکرار شوننده";
+"lng_settings_adaptive_wide" = "همگام سازی با نمایش دهنده های بزرگ";
+
+"lng_bio_title" = "ویرایش  چکیده من";
+"lng_bio_placeholder" = "چکیده‌ی من (بیو)";
+"lng_bio_about" = "شما میتوانید چند خط درباره‌ی خودتان بنویسید، هرکس نمایه‌ی شما را باز کند این متن را خواهد دید";
 
 "lng_language_name" = "فارسی";
 "lng_switch_to_this" = "رفتن به فارسی";
@@ -492,6 +506,7 @@ https://td.Rozito.ir/
 "lng_profile_mobile_number" = ":موبایل";
 "lng_profile_username" = ":نام کاربری";
 "lng_profile_link" = ":لینک";
+"lng_profile_bio" = "چکیده: ";
 "lng_profile_add_contact" = "افزودن مخاطب";
 "lng_profile_edit_contact" = "ویرایش";
 "lng_profile_enable_notifications" = "اعلانات";
@@ -1127,5 +1142,33 @@ https://td.Rozito.ir/
 "lng_mac_menu_new_group" = "گروه جدید";
 "lng_mac_menu_new_channel" = "کانال جدید";
 "lng_mac_menu_show" = "نمایش تلگرام";
+
+
+"lng_profile_shared_media" = "رسانه‌های منتشر شده";
+"lng_profile_no_media" = "هیچ رسانه‌ای منتشر نشده!";
+"lng_profile_photos#one" = "{count} تصویر";
+"lng_profile_photos#other" = "{count} تصاویر";
+"lng_profile_photos_header" = "تصاویر";
+"lng_profile_videos#one" = "{count} فیلم";
+"lng_profile_videos#other" = "{count} فیلم ";
+"lng_profile_videos_header" = "فیلم ها";
+"lng_profile_songs#one" = "{count} موسیقی";
+"lng_profile_songs#other" = "{count} موسیقی ";
+"lng_profile_songs_header" = "موسیقی ها";
+"lng_profile_files#one" = "{count} فایل";
+"lng_profile_files#other" = "{count} فایل ";
+"lng_profile_files_header" = "فایل ها";
+"lng_profile_audios#one" = "{count} پیام صوتی";
+"lng_profile_audios#other" = "{count} پیام  صوتی";
+"lng_profile_audios_header" = "پیام های صوتی";
+"lng_profile_shared_links#one" = "{count} لینک";
+"lng_profile_shared_links#other" = "{count} لینک";
+"lng_profile_shared_links_header" = "لینک ها";
+"lng_profile_copy_phone" = "کپی شماره تمسا";
+"lng_profile_copy_fullname" = "کپی نام";
+"lng_profile_drop_area_title" = "تصویر خود را اینجا رها کنید";
+"lng_profile_drop_area_subtitle" = "تنظیم به عنوان عکس گروه";
+"lng_profile_drop_area_subtitle_channel" = "تنظیم به عنوان عکس کانال";
+"lng_profile_top_bar_share_contact" = "اشتراک";
 
 // Keys finished

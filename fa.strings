@@ -50,11 +50,11 @@ https://td.Rozito.ir/
 "lng_sure_delete_contact" = "آیا میخواهید {contact} را از لیست مخاطب‌های خود حذف کنید؟";
 "lng_sure_delete_history" = "آیا میخواهید تاریخچه‌ی گفتگو را با {contact} پاک کنید؟\n\nاین عمل قابل بازگشت نیست!";
 "lng_sure_delete_group_history" = "میخواهید تاریخچه‌ی گروه {group}را حذف کنید؟\n\nاین عمل قالب بازگشت نیست!";
-"lng_sure_delete_and_exit" = "میخواهید گروه {group} را حذف و ترک کنید؟ \n\n این عمل قابل بازگشت نیست!"
-"lng_sure_leave_channel" = "میخواهید این کانال را ترک کنید؟
-"lng_sure_delete_channel" = "میخواهید این کانال را حذف کنید؟ با این کار تمام کاربران و پیام ها نیز حذف می‌شوند!"
-"lng_sure_leave_group" = "میخواهید از این گروه بروید؟"
-"lng_sure_delete_group" = "میخواهید این گروه را حذف کنید؟ همه‌ی اعضا و پیام ها از بین میرود!"
+"lng_sure_delete_and_exit" = "میخواهید گروه {group} را حذف و ترک کنید؟ \n\n این عمل قابل بازگشت نیست!";
+"lng_sure_leave_channel" = "میخواهید این کانال را ترک کنید؟";
+"lng_sure_delete_channel" = "میخواهید این کانال را حذف کنید؟ با این کار تمام کاربران و پیام ها نیز حذف می‌شوند!";
+"lng_sure_leave_group" = "میخواهید از این گروه بروید؟";
+"lng_sure_delete_group" = "میخواهید این گروه را حذف کنید؟ همه‌ی اعضا و پیام ها از بین میرود!";
 
 
 "lng_dialogs_text_with_from" = "{from_part} {message}";
@@ -630,9 +630,9 @@ https://td.Rozito.ir/
 "lng_sure_delete_history" = "Are you sure, you want to delete all message history with {contact}?\n\nThis action cannot be undone.";
 "lng_sure_delete_group_history" = "Are you sure, you want to delete all message history in «{group}»?\n\nThis action cannot be undone.";
 "lng_sure_delete_and_exit" = "Are you sure, you want to delete all message history and leave «{group}»?\n\nThis action cannot be undone.";
-"lng_sure_leave_channel" = "آیا مطمعن هستید";
+"lng_sure_leave_channel" = "آیا مطمئن هستید";
 "lng_sure_delete_channel" = "آیا شما می خواهید این کانال را حذف کنید؟ تمام اعضای حذف خواهد شد و تمام پیام های از دست خواهد رفت.";
-"lng_sure_leave_group" = "مطمعن از ترک کانال هستید؟";
+"lng_sure_leave_group" = "میخواهید کانال را ترک کنید؟";
 "lng_sure_delete_group" = "آیا شما می خواهیداین گروه را حذف کنید؟ تمام اعضای حذف خواهد شد و تمام پیام های از دست خواهد رفت";
 
 "lng_message_empty" = "پیام خالی";

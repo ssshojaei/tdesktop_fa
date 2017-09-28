@@ -46,6 +46,17 @@ https://td.Rozito.ir/
 "lng_call_duration_info" = "{time}, {duration}";
 "lng_call_type_and_duration" = "{type} ({duration})";
 
+
+"lng_sure_delete_contact" = "آیا میخواهید {contact} را از لیست مخاطب‌های خود حذف کنید؟";
+"lng_sure_delete_history" = "آیا میخواهید تاریخچه‌ی گفتگو را با {contact} پاک کنید؟\n\nاین عمل قابل بازگشت نیست!";
+"lng_sure_delete_group_history" = "میخواهید تاریخچه‌ی گروه {group}را حذف کنید؟\n\nاین عمل قالب بازگشت نیست!";
+"lng_sure_delete_and_exit" = "میخواهید گروه {group} را حذف و ترک کنید؟ \n\n این عمل قابل بازگشت نیست!"
+"lng_sure_leave_channel" = "میخواهید این کانال را ترک کنید؟
+"lng_sure_delete_channel" = "میخواهید این کانال را حذف کنید؟ با این کار تمام کاربران و پیام ها نیز حذف می‌شوند!"
+"lng_sure_leave_group" = "میخواهید از این گروه بروید؟"
+"lng_sure_delete_group" = "میخواهید این گروه را حذف کنید؟ همه‌ی اعضا و پیام ها از بین میرود!"
+
+
 "lng_dialogs_text_with_from" = "{from_part} {message}";
 "lng_dialogs_text_from_wrapped" = "{from}:";
 "lng_dialogs_text_media" = "{media_part} {caption}";

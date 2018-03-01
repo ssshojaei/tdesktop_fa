@@ -35,8 +35,7 @@ https://td.Rozito.ir/
 "lng_create_group_link" = "لینک";
 
 "lng_settings_section_advanced_settings" = "تنظیمات پیشرفته";
-"lng_settings_enable_night_theme" = "فعال سازی حالت شب";
-"lng_settings_disable_night_theme" = "غیر فعال کردن حالت شب";
+"lng_menu_night_mode" = "حالت شب";
 
 "lng_call_outgoing" = "تماس به شما";
 "lng_call_incoming" = "تماس های شما";
@@ -169,15 +168,21 @@ https://td.Rozito.ir/
 "lng_status_online" = "آنلاین";
 "lng_status_connecting" = "درحال اتصال...";
 
-"lng_chat_status_unaccessible" = "گروه غیر قابل دسترس است";
-"lng_chat_status_members" = "{count:no members|# عضو|# اعضا}";
-"lng_chat_status_members_online" = "{count:_not_used_|# عضو|# اعضا}, {count_online:_not_used_|# آنلاین|# آنلاین}";
+"lng_chat_status_unaccessible" = "گروه در دسترس نیست!";
+"lng_chat_status_members#one" = "{count} عضو";
+"lng_chat_status_members#other" = "{count} عضو";
+"lng_chat_status_online#one" = "{count} آنلاین";
+"lng_chat_status_online#other" = "{count} آنلاین";
+"lng_chat_status_members_online" = "{members_count}, {online_count}";
 
 "lng_channel_status" = "کانال";
 "lng_group_status" = "گروه";
 
-"lng_channel_members_link" = "{count:_not_used_|# عضو|# اعضا}";
-"lng_channel_admins_link" = "{count:_not_used_|# مدیر|# مدیران}";
+"lng_channel_members_link#one" = "{count} عضو";
+"lng_channel_members_link#other" = "{count} عضو";
+"lng_channel_admins_link#one" = "{count} مدیر";
+"lng_channel_admins_link#other" = "{count} مدیران";
+
 
 "lng_server_error" = "خطای داخلی سرور.";
 "lng_flood_error" = "در زمان دیگری تلاش کنید!";
@@ -1051,7 +1056,7 @@ https://td.Rozito.ir/
 "lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: 2.7";
 "lng_about_text_1" = "به نسخه رسمی تلگرام خوش آمدید،\n [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
 "lng_about_text_2" = "این نسخه توسط [a href=\"https://telegram.me/ssshojaei\"]سید صالح شجاعی[/a] ترجمه شده است";
-"lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/tdesktop\"]رزیتو[/a]";
+"lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/tg.php?ver={version}\"]رزیتو[/a]";
 "lng_about_done" = "تایید";
 
 "lng_search_found_results" = "{count:No messages found|Found # message|Found # messages}";

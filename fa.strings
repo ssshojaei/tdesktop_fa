@@ -44,7 +44,21 @@ https://td.Rozito.ir/
 "lng_call_declined" = "رد تماس";
 "lng_call_duration_info" = "{time}, {duration}";
 "lng_call_type_and_duration" = "{type} ({duration})";
-
+"lng_broadcast_ph" = "انتشار یک پیام...";
+"lng_manage_group_title" = "مدیریت گروه";
+"lng_manage_channel_title" = "مدیریت کانال";
+"lng_manage_group_info" = "اطلاعات گروه";
+"lng_manage_channel_info" = "اطلاعات کانال;
+"lng_manage_peer_recent_actions" = "اقدامات اخیر";
+"lng_manage_peer_members" = "اعضا";
+"lng_manage_peer_administrators" = "مدیران";
+"lng_manage_peer_banned_users" = "اعضای مسدود شده";
+"lng_manage_peer_restricted_users" = "کاربران محدود شده";
+"lng_manage_history_visibility_title" = "تاریخچه‌ی گفت گو برای اعضای تازه";
+"lng_manage_history_visibility_shown" = "نمایش";
+"lng_manage_history_visibility_shown_about" = "اعضای تازه پیام های پیش از پیوستن را مشاهده میکنند";
+"lng_manage_history_visibility_hidden" = "مخفی";
+"lng_manage_history_visibility_hidden_about" = "اعضای تازه پیام های پیش از پیوستن به گروه را نمیبینند";
 
 "lng_sure_delete_contact" = "آیا میخواهید {contact} را از لیست مخاطب‌های خود حذف کنید؟";
 "lng_sure_delete_history" = "آیا میخواهید تاریخچه‌ی گفتگو را با {contact} پاک کنید؟\n\nاین عمل قابل بازگشت نیست!";
@@ -1053,7 +1067,7 @@ https://td.Rozito.ir/
 "lng_box_delete" = "حذف";
 "lng_box_leave" = "ترک";
 
-"lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: 2.7";
+"lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: ۳.۱";
 "lng_about_text_1" = "به نسخه رسمی تلگرام خوش آمدید،\n [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
 "lng_about_text_2" = "این نسخه توسط [a href=\"https://telegram.me/ssshojaei\"]سید صالح شجاعی[/a] ترجمه شده است";
 "lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/\"]رزیتو[/a]";

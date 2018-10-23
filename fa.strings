@@ -1,4 +1,4 @@
-﻿/*
+/*
 This file is part of Telegram Desktop,
 the official desktop version of Telegram messaging app, see https://telegram.org
 
@@ -21,7 +21,7 @@ Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2016 John Preston, https://desktop.telegram.org
 
 فارسی سازی شده توسط تیم ترجمه آزاد
-https://td.Rozito.ir/
+https://SSShojaei.ir
 */
 
 "lng_call_bar_hangup" = "پایان تماس";
@@ -35,7 +35,87 @@ https://td.Rozito.ir/
 "lng_create_group_link" = "لینک";
 
 "lng_settings_section_advanced_settings" = "تنظیمات پیشرفته";
+"lng_settings_enable_night_theme" = "فعال سازی حالت شب";
+"lng_settings_disable_night_theme" = "غیر فعال کردن حالت شب";
 "lng_menu_night_mode" = "حالت شب";
+
+
+"lng_settings_information" = "ویرایش پروفایل";
+"lng_settings_privacy_title" = "حریم خصوصی";
+"lng_settings_last_seen" = "آخرین بازدید";
+"lng_settings_calls" = "تماس صوتی";
+"lng_settings_groups_invite" = "گروه‌ها";
+"lng_settings_group_privacy_about" = "تغییر دسترسی اضافه کردن شما به گروه‌ها و کانال‌ها";
+"lng_settings_sessions_title" = "نشست‌های فعال";
+"lng_settings_sessions_about" = "کنترل نشست‌ها بر دستگاه‌های دیگر";
+"lng_settings_passcode_disable" = "غیرفعال سازی گذرواژه";
+"lng_settings_password_disable" = "غیرفعال سازی گذرواژه‌ی ابری";
+"lng_settings_password_title" = "فعال سازی دو مرحله‌ای";
+"lng_settings_destroy_title" = "حذف حساب کاربری";
+"lng_settings_advanced" = "پیشرفته";
+"lng_settings_network_proxy" = "اینترنت و پروکسی";
+"lng_settings_connection_type" = "نوع اتصال";
+
+"lng_connection_auto_connecting" = "پیش‌فرض (درحال اتصال...)";
+"lng_connection_auto" = "پیشفرض ({transport} استفاده شده)";
+"lng_connection_proxy_connecting" = "Connecting through proxy...";
+"lng_connection_proxy" = "{transport} با پروکسی";
+"lng_connection_header" = "نوع اتصال";
+"lng_connection_auto_rb" = "خودکار (tcp اگر دردسترس بود یا http)";
+"lng_connection_http_proxy_rb" = "HTTP با http-proxy دیگر";
+"lng_connection_tcp_proxy_rb" = "TCP با socks5-proxy دیگر";
+"lng_connection_try_ipv6" = "Try connecting through IPv6";
+"lng_connection_host_ph" = "نام‌هاست";
+"lng_connection_port_ph" = "پورت";
+"lng_connection_user_ph" = "نام‌کاربری";
+"lng_connection_password_ph" = "گذرواژه";
+"lng_connection_proxy_secret_ph" = "کلید امنیتی";
+"lng_connection_save" = "ذخیره";
+
+"lng_proxy_settings" = "تنظیمات پروکسی";
+"lng_proxy_use" = "استفاده از پروکسی";
+"lng_proxy_use_for_calls" = "استفاده از پروکسی برای تماس‌ها";
+"lng_proxy_about" = "پروکسی سرورها کمک میکنند اگر کشور شما دسترسی مردم را به تلگرام محدود کرده است، به آن متصل شوید";
+"lng_proxy_add" = "افزودن پروکسی";
+"lng_proxy_share" = "اشتراک گذاری";
+"lng_proxy_online" = "متصل شد";
+"lng_proxy_checking" = "بررسی...";
+"lng_proxy_connecting" = "درحال اتصال";
+"lng_proxy_available" = "در دسترس با پینگ، {ping} میلی‌ثانیه";
+"lng_proxy_unavailable" = "در دسترس نیست";
+"lng_proxy_edit" = "ویرایش پروکسی";
+"lng_proxy_menu_edit" = "ویرایش";
+"lng_proxy_menu_delete" = "حذف";
+"lng_proxy_menu_restore" = "بازیابی";
+"lng_proxy_edit_share" = "اشتراک";
+"lng_proxy_address_label" = "آدرس سوکت";
+"lng_proxy_credentials_optional" = "Credentials (optional)";
+"lng_proxy_credentials" = "Credentials";
+"lng_proxy_description" = "لیست پروکسی شما اینجاست";
+"lng_proxy_sponsor" = "اسپانسر پروکسی";
+"lng_proxy_sponsor_about" = "این کانال، توسط اسپانسر پروکسی شما اضافه شده است\nبرای حذف آن، پروکسی سرور را غیر فعال کنید";
+"lng_proxy_sponsor_warning" = "توسط اسپانسر پروکسی شما اضافه شده است";
+"lng_settings_language" = "زبان‌ها";
+"lng_settings_default_scale" = "بزرگ‌نمایی پیش‌فرض";
+"lng_settings_data_storage" = "حافظه و ذخیره سازی";
+"lng_download_path_ask" = "پرسیدن مسیر دانلود برای هر فایل";
+"lng_download_path" = "مسیر دانلود";
+"lng_settings_performance" = "کارایی";
+"lng_settings_enable_animations" = "فعال بودن انیمیشن‌ها";
+"lng_settings_autoplay_gifs" = "نمایش خودکار گیف‌ها";
+"lng_settings_version_info" = "نسخه‌ها و بروزرسانی";
+"lng_settings_install_beta" = "نصب نسخه‌های بتا";
+"lng_settings_name_label" = "نام";
+"lng_settings_username_label" = "نام‌کاربری";
+"lng_settings_phone_label" = "شماره تلفن";
+"lng_settings_username_add" = "افزودن نام‌کاربری";
+"lng_settings_about_bio" = "اطلاعاتی درمورد سن، شغل، علایق، سبک زندگی و...";
+"lng_settings_themes" = "پوسته‌ها";
+"lng_settings_replace_emojis" = "جایگزینی ایموجی";
+"lng_settings_suggest_emoji" = "ایموجی‌های پرکاربرد";
+"lng_settings_suggest_by_emoji" = "پیشنهاد استیکرها بر اساس ایموجی";
+"lng_settings_stickers_emoji" = "استیکرها و ایموجی‌ها";
+"lng_settings_messages" = "پیام‌ها";
 
 "lng_call_outgoing" = "تماس به شما";
 "lng_call_incoming" = "تماس های شما";
@@ -44,21 +124,7 @@ https://td.Rozito.ir/
 "lng_call_declined" = "رد تماس";
 "lng_call_duration_info" = "{time}, {duration}";
 "lng_call_type_and_duration" = "{type} ({duration})";
-"lng_broadcast_ph" = "انتشار یک پیام...";
-"lng_manage_group_title" = "مدیریت گروه";
-"lng_manage_channel_title" = "مدیریت کانال";
-"lng_manage_group_info" = "اطلاعات گروه";
-"lng_manage_channel_info" = "اطلاعات کانال";
-"lng_manage_peer_recent_actions" = "اقدامات اخیر";
-"lng_manage_peer_members" = "اعضا";
-"lng_manage_peer_administrators" = "مدیران";
-"lng_manage_peer_banned_users" = "اعضای مسدود شده";
-"lng_manage_peer_restricted_users" = "کاربران محدود شده";
-"lng_manage_history_visibility_title" = "تاریخچه‌ی گفت گو برای اعضای تازه";
-"lng_manage_history_visibility_shown" = "نمایش";
-"lng_manage_history_visibility_shown_about" = "اعضای تازه پیام های پیش از پیوستن را مشاهده میکنند";
-"lng_manage_history_visibility_hidden" = "مخفی";
-"lng_manage_history_visibility_hidden_about" = "اعضای تازه پیام های پیش از پیوستن به گروه را نمیبینند";
+
 
 "lng_sure_delete_contact" = "آیا میخواهید {contact} را از لیست مخاطب‌های خود حذف کنید؟";
 "lng_sure_delete_history" = "آیا میخواهید تاریخچه‌ی گفتگو را با {contact} پاک کنید؟\n\nاین عمل قابل بازگشت نیست!";
@@ -90,7 +156,7 @@ https://td.Rozito.ir/
 "lng_bio_about" = "شما میتوانید چند خط درباره‌ی خودتان بنویسید، هرکس نمایه‌ی شما را باز کند این متن را خواهد دید";
 
 "lng_language_name" = "فارسی";
-"lng_switch_to_this" = "رفتن به فارسی";
+"lng_switch_to_this" = "ادامه با فارسی";
 
 "lng_menu_contacts" = "مخاطبین";
 "lng_menu_calls" = "تماس ها";
@@ -182,21 +248,15 @@ https://td.Rozito.ir/
 "lng_status_online" = "آنلاین";
 "lng_status_connecting" = "درحال اتصال...";
 
-"lng_chat_status_unaccessible" = "گروه در دسترس نیست!";
-"lng_chat_status_members#one" = "{count} عضو";
-"lng_chat_status_members#other" = "{count} عضو";
-"lng_chat_status_online#one" = "{count} آنلاین";
-"lng_chat_status_online#other" = "{count} آنلاین";
-"lng_chat_status_members_online" = "{members_count}, {online_count}";
+"lng_chat_status_unaccessible" = "گروه غیر قابل دسترس است";
+"lng_chat_status_members" = "{count:no members|# عضو|# اعضا}";
+"lng_chat_status_members_online" = "{count:_not_used_|# عضو|# اعضا}, {count_online:_not_used_|# آنلاین|# آنلاین}";
 
 "lng_channel_status" = "کانال";
 "lng_group_status" = "گروه";
 
-"lng_channel_members_link#one" = "{count} عضو";
-"lng_channel_members_link#other" = "{count} عضو";
-"lng_channel_admins_link#one" = "{count} مدیر";
-"lng_channel_admins_link#other" = "{count} مدیران";
-
+"lng_channel_members_link" = "{count:_not_used_|# عضو|# اعضا}";
+"lng_channel_admins_link" = "{count:_not_used_|# مدیر|# مدیران}";
 
 "lng_server_error" = "خطای داخلی سرور.";
 "lng_flood_error" = "در زمان دیگری تلاش کنید!";
@@ -883,8 +943,8 @@ https://td.Rozito.ir/
 "lng_dialogs_text_from_wrapped" = "{from}:";
 "lng_dialogs_text_media" = "{media_part} {caption}";
 "lng_dialogs_text_media_wrapped" = "{media},";
-"lng_dialogs_show_all_chats" = "نمایش همه";
-"lng_dialogs_hide_muted_chats" = "مخفی کردن چت‌های بی‌صدا";
+"lng_dialogs_show_all_chats" = "Show all chats";
+"lng_dialogs_hide_muted_chats" = "Hide muted chats";
 
 "lng_open_this_link" = "این لینک را باز می کنید ؟";
 "lng_open_link" = "باز کردن";
@@ -1067,10 +1127,10 @@ https://td.Rozito.ir/
 "lng_box_delete" = "حذف";
 "lng_box_leave" = "ترک";
 
-"lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: ۳.۱";
+"lng_about_version" = "نسخه تلگرام :{version} | نسخه فارسی: 3.1";
 "lng_about_text_1" = "به نسخه رسمی تلگرام خوش آمدید،\n [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
 "lng_about_text_2" = "این نسخه توسط [a href=\"https://telegram.me/ssshojaei\"]سید صالح شجاعی[/a] ترجمه شده است";
-"lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://rozito.ir/\"]رزیتو[/a]";
+"lng_about_text_3" = "مشاهده‌ی آخرین ترجمه : [a href=\"http://SSShojaei.ir/tdesktop\"]SSShojaei.ir[/a]";
 "lng_about_done" = "تایید";
 
 "lng_search_found_results" = "{count:No messages found|Found # message|Found # messages}";
